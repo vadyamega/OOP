@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{092D22FA-5642-4B39-A227-E1374D7411C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lalalab4_14/Program.cs">
+    <Files>
+      <File FileName="lalalab4_14/Program.cs" Line="235" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lalalab4__14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

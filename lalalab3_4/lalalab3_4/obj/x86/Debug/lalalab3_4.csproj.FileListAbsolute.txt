@@ -1,0 +1,5 @@
+/Users/anastasiatomko/Projects/lalalab3_4/lalalab3_4/bin/Debug/lalalab3_4.exe
+/Users/anastasiatomko/Projects/lalalab3_4/lalalab3_4/bin/Debug/lalalab3_4.pdb
+/Users/anastasiatomko/Projects/lalalab3_4/lalalab3_4/obj/x86/Debug/lalalab3_4.csproj.CoreCompileInputs.cache
+/Users/anastasiatomko/Projects/lalalab3_4/lalalab3_4/obj/x86/Debug/lalalab3_4.exe
+/Users/anastasiatomko/Projects/lalalab3_4/lalalab3_4/obj/x86/Debug/lalalab3_4.pdb

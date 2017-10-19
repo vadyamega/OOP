@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lalalab3_4", "lalalab3_4\lalalab3_4.csproj", "{BE5C47F3-6073-436A-93BA-3DAB42D97BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5C47F3-6073-436A-93BA-3DAB42D97BE1}.Debug|x86.ActiveCfg = Debug|x86
+		{BE5C47F3-6073-436A-93BA-3DAB42D97BE1}.Debug|x86.Build.0 = Debug|x86
+		{BE5C47F3-6073-436A-93BA-3DAB42D97BE1}.Release|x86.ActiveCfg = Release|x86
+		{BE5C47F3-6073-436A-93BA-3DAB42D97BE1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
